@@ -13,14 +13,16 @@
 html, body { height: 100%; }
 
 body {
-  background-color: white;
+  background-color: #fff;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+  font-size: 100%;
+  color: green;
+}
 
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
